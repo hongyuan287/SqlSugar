@@ -14,3 +14,10 @@ E:\MyOpenSource\SqlSugar\SqlSugar\obj\Debug\SqlSugar.pdb
 E:\MyOpenSource\SqlSugar\SqlSugar\bin\Debug\SqlSugar.XML
 F:\MyOpenSource\SqlSugar\SqlSugar\bin\Debug\SqlSugar.XML
 F:\MyOpenSource\SqlSugar\SqlSugar\obj\Debug\SqlSugar.csprojResolveAssemblyReference.cache
+C:\Projects\SqlSugar\SqlSugar\bin\Debug\SqlSugar.XML
+C:\Projects\SqlSugar\SqlSugar\bin\Debug\SqlSugar.dll
+C:\Projects\SqlSugar\SqlSugar\bin\Debug\SqlSugar.pdb
+C:\Projects\SqlSugar\SqlSugar\obj\Debug\SqlSugar.csprojResolveAssemblyReference.cache
+C:\Projects\SqlSugar\SqlSugar\obj\Debug\SqlSugar.csproj.CoreCompileInputs.cache
+C:\Projects\SqlSugar\SqlSugar\obj\Debug\SqlSugar.dll
+C:\Projects\SqlSugar\SqlSugar\obj\Debug\SqlSugar.pdb
